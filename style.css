@@ -25,14 +25,14 @@
 
 .listbar{
     margin-top: 13vh;
-    margin-left: 4vh;
-    border: 1px solid purple;
     width: 47vh;
     height: 40vh;
 }
     
 .navnames{ 
-    font-size: 28px;
+    padding-left: 4vh;
+    padding-bottom: 2vh;
+    font-size: 25px;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
     color: white;
@@ -44,6 +44,13 @@
     width: 33%;
     border: 1px solid green;
     height: 10vh;
+}
+
+.design{
+    font-size: 82px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    margin-top: -25px;
 }
 
 .showcase{
